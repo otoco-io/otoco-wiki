@@ -2,7 +2,7 @@
 description: "This post describes how we engineered a Delaware LLC that can be formed entirely online within 5 seconds and for 5\_dollars.  Further tabs contains the legals, smart contract code and FAQs."
 ---
 
-# OtoCo: A Delaware LLC at the Push of a Button for the Price of a Coffee
+# Introducing OtoCo: A Blockchain-Native Real-World LLC in Delaware and Wyoming, Instant and Free
 
 ### **A challenge thrown by the community of entrepreneurs and investors**
 
