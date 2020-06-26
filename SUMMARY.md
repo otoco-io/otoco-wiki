@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OtoCo: A Delaware LLC at the Push of a Button for the Price of a Coffee](README.md)
+* [Introducing OtoCo: A Blockchain-Native Real-World LLC in Delaware and Wyoming, Instant and Free](README.md)
 
 ## Operating Agreements
 
