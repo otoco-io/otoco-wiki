@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing OtoCo: A Blockchain-Native Real-World LLC in Delaware and Wyoming, Instant and Free](README.md)
+* [Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware and Wyoming, Instant and Free](README.md)
 
 ## Operating Agreements
 
