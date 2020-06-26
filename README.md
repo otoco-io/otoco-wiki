@@ -1,5 +1,5 @@
 ---
-description: "This post describes how we engineered a Delaware LLC that can be formed entirely online within 5 seconds and for 5\_dollars.  Further tabs contains the legals, smart contract code and FAQs."
+description: "This post describes how we engineered a Delaware LLC that can be formed entirely online within 5 seconds and for free.  Further tabs contains the legals, smart contract code and FAQs."
 ---
 
 # Introducing OtoCo: A Blockchain-Native Real-World LLC in Delaware and Wyoming, Instant and Free
@@ -95,9 +95,11 @@ Proof of existence of the new LLC is the smart contract created to hold the Seri
 
 To make it easier for users to interact with the destination address of the Master LLC, we linked its public address to `otocorp.eth` , a more human-readable name, using the [Ethereum Name Services](https://ens.domains/). 
 
-We put the cost of activating a new LLC at 5 DAI which if we get to 60 Series LLCs will help OtoCo LLC as the Master pay the USD 300 Annual Franchise tax in Delaware.
+We initially had put the cost of activating a new LLC at 5 DAI which if we got to 60 Series LLCs would have helped OtoCo LLC as the Master to pay the USD 300 Annual Franchise tax in Delaware.
 
-In addition to the 5 DAI, users will need to have a very small amount of Ether in their wallet to cover the gas costs of the 2 transactions, a first one to make the payment of 5 DAI and a second to activate the new LLC.   All this is completed within 5 seconds on average. 
+We the decided that we would rather - at least intially - let users spin up their LLC for FREE, knowing that there would be opportunities to upsell services once an LLC is activated. 
+
+As a result, users now only need to have a very small amount of Ether in their wallet to cover the gas costs of the signing transactions to activate the new LLC.   All this is completed within 5 seconds on average. 
 
 ### How we removed the naming speedbump 
 
