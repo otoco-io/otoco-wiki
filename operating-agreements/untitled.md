@@ -5,7 +5,7 @@ description: >-
   contains the public address of its first Member.
 ---
 
-# Series LLC Operating Agreement - OtoCo
+# Series LLC Operating Agreement - OtoCo DE \(Delaware\)
 
 {% embed url="https://docs.google.com/document/d/10kYtCiPxINtqmheW3\_xtcCKNRtanPXUndAT\_y3DPk98/edit" %}
 

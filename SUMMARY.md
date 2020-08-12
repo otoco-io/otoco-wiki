@@ -1,20 +1,21 @@
 # Table of contents
 
-* [Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware and Wyoming, Instant and Free](README.md)
+* [Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware, Instant and Free](README.md)
 
 ## Operating Agreements
 
-* [OtoCo Master LLC Operating Agreement](operating-agreements/otocorp-master-llc-operating-agreement.md)
-* [Series LLC Operating Agreement - OtoCo](operating-agreements/untitled.md)
-* [Certificate of Formation for OtoCo LLC](operating-agreements/certificate-of-formation-for-otocorp-llc.md)
-
-## SMART CONTRACT CODE
-
-* [The Series LLC Smart Contract](smart-contract-code/smart-contracts.md)
-* [The DAI payment module](smart-contract-code/untitled.md)
+* [OtoCo DE Master LLC Operating Agreement](operating-agreements/otocorp-master-llc-operating-agreement.md)
+* [Series LLC Operating Agreement - OtoCo DE \(Delaware\)](operating-agreements/untitled.md)
+* [Certificate of Formation for OtoCo DE LLC](operating-agreements/certificate-of-formation-for-otocorp-llc.md)
+* [Series LLC Operating Agreement - OtoCo WY \(Wyoming\)](operating-agreements/series-llc-operating-agreement-otoco-wy-wyoming.md)
 
 ## FAQs
 
 * [About the Series LLC](faqs/about-the-series-llc.md)
 * [The role of the Master LLC](faqs/the-role-of-the-master-llc.md)
+
+## SMART CONTRACT CODE
+
+* [The Series LLC Smart Contract](smart-contract-code/the-series-llc-smart-contract.md)
+* [The DAI payment module](smart-contract-code/the-dai-payment-module.md)
 
