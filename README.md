@@ -5,7 +5,7 @@ description: >-
   the legals, smart contract code and FAQs.
 ---
 
-# Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware, Instant and for only 39 DAI
+# Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware, Instant and for Only 39 DAI
 
 ## **A challenge thrown by the community of entrepreneurs and investors**
 

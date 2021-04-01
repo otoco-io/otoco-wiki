@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware, Instant and for only 39 DAI](README.md)
+* [Introducing OtoCo: A Blockchain-Native, Real-World LLC in Delaware, Instant and for Only 39 DAI](README.md)
 
 ## Operating Agreements
 
