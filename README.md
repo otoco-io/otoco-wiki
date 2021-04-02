@@ -32,11 +32,11 @@ Company formation will inevitably go the same way
 
 **2. Legal validity**
 
-Secondly, new technology brings old fears. Will a company formed entirely online, without legal intermediaries, still be legally valid?  Andf if it can be done so cheaply, can it be good?
+Secondly, new technology brings old fears. Will a company formed entirely online, without legal intermediaries, still be legally valid?  And if it can be done so cheaply, can it be good?
 
 These fears may be justified and deserve a closer look.
 
-The source of all legal validity is self-evidently the law. In the realm of company formation, Governments have by law monopolised the issuance of new incorporation certificates - legal "birth certicfiates" for companies - to official Registries.
+The source of all legal validity is self-evidently the law. In the realm of company formation, Governments have by law monopolized the issuance of new incorporation certificates - legal "birth certificates" for companies - to official Registries.
 
 Some of these Registries may be privately run however typically they are part of Government. In the United States, each State has its Registry.
 
