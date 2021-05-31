@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the OtoCo documentation library!  TEST](README.md)
+* [Welcome to the OtoCo documentation library!](README.md)
 
 ## A.  Introducing the OtoCo token <a id="introducing-the-otoco-token"></a>
 

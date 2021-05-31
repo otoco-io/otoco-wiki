@@ -4,7 +4,7 @@ description: >-
   open-source code, together with a Frequently Asked Questions section.
 ---
 
-# Welcome to the OtoCo documentation library!  TEST
+# Welcome to the OtoCo documentation library!
 
 **Join our** [**Telegram Channel**](https://t.me/TheRoadToOtoco) **for live dialogue and important announcements!**
 
