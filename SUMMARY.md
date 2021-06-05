@@ -2,11 +2,11 @@
 
 * [Welcome to the OtoCo documentation library!](README.md)
 
-## A. OtoCo: Instant Entities on Blockchain
+## A. OtoCo: Instant Real-World Entities on Ethereum <a id="a.-otoco-instant-entities-on-blockchain"></a>
 
 * [Untitled](a.-otoco-instant-entities-on-blockchain/untitled.md)
 
-## A.  Introducing the OtoCo token <a id="introducing-the-otoco-token"></a>
+## B.  Introducing the OtoCo token <a id="introducing-the-otoco-token"></a>
 
 * [Part I. Our Vision for OtoCo: From Product to Platform](introducing-the-otoco-token/untitled/README.md)
   * [1. The Anachronism of Analog Company Formation](introducing-the-otoco-token/untitled/1.-the-anachronism-of-analog-company-formation/README.md)
