@@ -4,7 +4,8 @@
 
 ## A. OtoCo: Instant Real-World Entities on Ethereum <a id="a.-otoco-instant-entities-on-blockchain"></a>
 
-* [Part I. How OtoCo Came About](a.-otoco-instant-entities-on-blockchain/untitled.md)
+* [Part I. How OtoCo Came About](a.-otoco-instant-entities-on-blockchain/untitled/README.md)
+  * [1. The Challenge](a.-otoco-instant-entities-on-blockchain/untitled/1.-the-challenge.md)
 
 ## B.  Introducing the OtoCo token <a id="introducing-the-otoco-token"></a>
 
