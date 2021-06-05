@@ -7,6 +7,8 @@ description: >-
 
 # Part I. Our Vision for OtoCo: From Product to Platform
 
+
+
 ![](../../.gitbook/assets/illustration-2c%20%281%29.png)
 
 We need containers to hold things, from drink cans and grocery bags to wallets and trusts.
