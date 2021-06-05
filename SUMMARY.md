@@ -2,6 +2,10 @@
 
 * [Welcome to the OtoCo documentation library!](README.md)
 
+## A. OtoCo: Instant Entities on Blockchain
+
+* [Untitled](a.-otoco-instant-entities-on-blockchain/untitled.md)
+
 ## A.  Introducing the OtoCo token <a id="introducing-the-otoco-token"></a>
 
 * [Part I. Our Vision for OtoCo: From Product to Platform](introducing-the-otoco-token/untitled/README.md)
