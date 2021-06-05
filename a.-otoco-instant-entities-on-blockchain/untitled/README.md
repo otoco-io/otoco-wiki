@@ -9,12 +9,14 @@ description: >-
 
 ## **A challenge thrown by the community of entrepreneurs and investors**
 
-We started to work on our OtoCo product with 2 goals in mind:
+Back in summer 2020, we started to work on our OtoCo product with 2 goals in mind:
 
 1. We wanted to compress the time and cost of forming a new legal entity;   
 2. whilst maintaining legal validity.
 
 The demand for a "company at the push of a button" is heard quite often in entrepreneurial circles. Here are some recent calls:
+
+
 
 
 
