@@ -128,7 +128,13 @@ If there are any issues that may result in the dissolution of the Master LLC whi
 
 You can chose any address as your principal office, also outside of the US, subject to local rules.  Inside the US, specific regulations may apply in the State where you have your principal office.
 
-The Registered Agent, i.e. Otonomos LLC or its appointed agent, is the LLC's registered agent for service of process, as per the [Series Operating Agreements](../operating-agreements/untitled.md).
+The Registered Agent, i.e. Otonomos LLC or its appointed agent, is the LLC's registered agent for service of process, as per the Series Operating Agreements:
+
+{% page-ref page="../operating-agreements/de-series-operating-agreement.md" %}
+
+{% page-ref page="../operating-agreements/series-llc-operating-agreement-otoco-wy-wyoming.md" %}
+
+
 
 ## What purpose can my LLC have?
 
